@@ -1,0 +1,27 @@
+_repo: In-Luxemburg-s-GutlandDe-Aarde-en-haar-Volken-1907_18319
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Perk, M. A.
+    gutenberg_agent_id: '7942'
+    url: http://www.gutenberg.org/2009/agents/7942
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2006-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18319'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Luxembourg -- Description and travel'
+- !lcc 'DH'
+title: 'In Luxemburg''s Gutland
+
+  De Aarde en haar Volken, 1907'
+url: http://www.gutenberg.org/ebooks/18319
